@@ -1,2 +1,1 @@
-# redux-sync-example
-Created with CodeSandbox
+Example For Redux-State-Sync
